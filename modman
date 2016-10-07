@@ -1,0 +1,5 @@
+app/design/frontend/base/default/template/aeronicsbuergel_creditcheck/ app/design/frontend/base/default/template/aeronicsbuergel_creditcheck/
+app/design/frontend/base/default/layout/aeronicsbuergel_creditcheck.xml app/design/frontend/base/default/layout/aeronicsbuergel_creditcheck.xml
+app/etc/modules/AeronicsBuergel_CreditCheck.xml app/etc/modules/AeronicsBuergel_CreditCheck.xml
+app/code/local/AeronicsBuergel/CreditCheck/ app/code/local/AeronicsBuergel/CreditCheck/
+app/locale/de_DE/AeronicsBuergel_CreditCheck.csv app/locale/de_DE/AeronicsBuergel_CreditCheck.csv

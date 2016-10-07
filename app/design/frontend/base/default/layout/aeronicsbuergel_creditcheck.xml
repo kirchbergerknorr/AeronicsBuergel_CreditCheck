@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<layout>
+    <customer_account_edit>
+        <reference name="customer_edit">
+            <action method="setTemplate">
+                <template>aeronicsbuergel_creditcheck/customer/form/edit.phtml</template>
+            </action>
+        </reference>
+    </customer_account_edit>
+</layout>

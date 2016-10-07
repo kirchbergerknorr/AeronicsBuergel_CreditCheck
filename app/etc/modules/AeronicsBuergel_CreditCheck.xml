@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<config>
+    <modules>
+        <AeronicsBuergel_CreditCheck>
+            <active>true</active>
+            <codePool>local</codePool>
+        </AeronicsBuergel_CreditCheck>
+    </modules>
+</config>

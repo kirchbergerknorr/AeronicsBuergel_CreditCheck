@@ -1,0 +1,11 @@
+{
+    "name": "kirchbergerknorr/AeronicsBuergel_CreditCheck",
+    "description": "AeronicsBuergel_CreditCheck",
+    "type": "magento-module",
+    "authors": [
+        {
+            "name": "Leo Friedrichs",
+            "email": "lf@kirchbergerknorr.de"
+        }
+    ]
+}
